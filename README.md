@@ -21,7 +21,7 @@ The following image shows the web application's appearance and functionality:
 
 ![alt text](./assets/images/screenshot2.png)
 
-[Visit my website](https://haartmuhn.github.io/Andrews-Journal/)
+[Visit my website](https://haartmuhn.github.io/andrews-journal/)
 
 </div>
 
